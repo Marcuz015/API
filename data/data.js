@@ -13,7 +13,6 @@ export const disciplinas = [
 ];
 
 //array de alunos
-
 export const alunos = [
     {
         "id": 1,
